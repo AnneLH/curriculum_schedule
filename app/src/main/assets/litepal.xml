@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="curriculum_schedule"></dbname>
+    <version value="5"></version>
+
+    <list>
+        <mapping class="cn.vaf714.curriculum_schedule.entity.Student"></mapping>
+        <mapping class="cn.vaf714.curriculum_schedule.entity.Course"></mapping>
+        <mapping class="cn.vaf714.curriculum_schedule.entity.Schedule"></mapping>
+    </list>
+</litepal>
